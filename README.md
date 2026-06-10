@@ -1,5 +1,5 @@
 # Hi, I'm Adem Mzoughi 👋
-Also known online as Erec Smith, an 18-year-old Software Developer based in Tunisia
+Also known online as Erec Smith, Software Developer based in Tunisia
 
 ## Skills
 - Python
