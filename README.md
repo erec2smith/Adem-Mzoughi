@@ -2,16 +2,15 @@
 Also known online as Erec Smith, Software Developer based in Tunisia
 
 ## Skills
-- Python
-- JavaScript
-- c++
+- Python Scripting
+- Backend
 - HTML/CSS
-- Flask
-- PyQt5
+- MySql
 
 ## Current Project
-🚀 Wamithe - Software company focused on simplifying life through technology.
+- Wamithe - Software company focused on simplifying life through technology.
+- ShadowB - Python toolkit (https://github.com/erec2smith/ShadowB)
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/adem-mzoughi-83b4a2302
-- Website: https://erec2smith.pythonanywhere.com/
+- LinkedIn: (https://linkedin.com/in/adem-mzoughi-83b4a2302)
+- Website: (https://erec2smith.pythonanywhere.com/)
