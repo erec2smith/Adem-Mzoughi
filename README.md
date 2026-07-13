@@ -15,12 +15,12 @@
 ```python
 # tools_I_use organized
   myTools = {  
-    "ProgramingLanguages" : {"Python", "JavaScript", "TypeScript", "c" },
+    "ProgramingLanguages" : {"Python", "JavaScript", "TypeScript", "c"},
     "OtherLanguages" : {"HTML", "CSS", "Bash", "Json"},
-    "Database" : {"MongoDB", "Sqlite", "PostgreSql", "MySql"},
+    "Database" : {"MongoDB", "Sqlite", "MySql"},
     "Editors" : {"Vscode"},
-    "Platforms" : {"Linux", "Windows" },
-    "OtherTools" : {"Git", "BootStrap", "TailwindCss" }
+    "Platforms" : {"Linux", "Windows"},
+    "OtherTools" : {"Git", "BootStrap", "TailwindCss", "Node.js", "Flask"}
   };
 ```
 
