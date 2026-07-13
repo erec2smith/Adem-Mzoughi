@@ -24,7 +24,7 @@
   };
 ```
 
--  <img alt="GIF" src="https://github.com/erec2smith/erec2smith/blob/main/images/erec.jpg" width="25" /> 
+-  <a href="https://erec2smith.pythonanywhere.com" trage="_blank"><img alt="GIF" src="https://github.com/erec2smith/erec2smith/blob/main/images/erec.jpg" width="45" /></a> 
 
 <hr></hr>
 
