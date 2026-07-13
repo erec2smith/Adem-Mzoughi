@@ -24,7 +24,7 @@
   };
 ```
 
--  <img alt="GIF" src="https://github.com/erec2smith/erec2smith/blob/main/images/erec.png" width="25" /> 
+-  <img alt="GIF" src="https://github.com/erec2smith/erec2smith/blob/main/images/erec.jpg" width="25" /> 
 
 <hr></hr>
 
