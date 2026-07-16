@@ -2,7 +2,7 @@
 
 # 👋 Adem Mzoughi | @erec2smith
 
-**Full-Stack Developer | Open Source Contributor | Building Tools That Matter**
+**Software Developer | Open Source Contributor | Building Tools That Matter**
 
 ---
 
