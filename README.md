@@ -4,17 +4,6 @@
 
 **Software Developer | Open Source Contributor | Building Tools That Matter**
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=erec2smith&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erec2smith&theme=radical&hide_border=true&show_icons=true&count_private=true)](https://github.com/erec2smith)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erec2smith&theme=radical&hide_border=true&layout=compact)](https://github.com/erec2smith)
-
----
 
 ## 🎯 My Projects
 
