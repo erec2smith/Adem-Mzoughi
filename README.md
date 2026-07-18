@@ -51,6 +51,12 @@
 
 ---
 
+My achievements on Leetcode :
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ademmzoughi?theme=dark&font=Karma&ext=heatmap)
+
+---
+
 ## 💻 About Me
 
 I'm **Adem Mzoughi**, an 18-year-old self-taught software developer from **Tunisia** 🇹🇳. With **5+ years of experience**, I'm passionate about:
