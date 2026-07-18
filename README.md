@@ -51,7 +51,7 @@
 
 ---
 
-My achievements on Leetcode :
+<h1 align="center">My achievements on Leetcode</h1>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ademmzoughi?theme=dark&font=Karma&ext=heatmap)
 
