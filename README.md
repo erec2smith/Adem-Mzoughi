@@ -59,7 +59,7 @@
 
 ## 💻 About Me
 
-I'm **Adem Mzoughi**, an 18-year-old self-taught software developer from **Tunisia** 🇹🇳. With **5+ years of experience**, I'm passionate about:
+I'm **Adem Mzoughi**, an 18-year-old self-taught software developer from **Tunisia** 🇹🇳, With **5+ years of experience**, I'm passionate about:
 
 - 🔧 **Building useful tools** that solve real problems
 - 🎨 **Full-stack development** from frontend to backend
