@@ -76,7 +76,7 @@ I'm **Adem Mzoughi**, an 18-year-old self-taught software developer from **Tunis
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-erec2smith.pythonanywhere.com-blue?style=flat-square&logo=internet-explorer)](https://erecsmith.pythonanywhere.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-erec2smith.pythonanywhere.com-blue?style=flat-square&logo=internet-explorer)](https://erec2smith.pythonanywhere.com)
 [![GitHub](https://img.shields.io/badge/GitHub-erec2smith-black?style=flat-square&logo=github)](https://github.com/erec2smith)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adem%20Mzoughi-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 
