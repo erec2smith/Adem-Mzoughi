@@ -87,6 +87,5 @@ I'm **Adem Mzoughi**, an 18-year-old self-taught software developer from **Tunis
 **⭐ If you find my projects useful, consider giving them a star!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=erec2smith&color=blueviolet)
-
 </div>
 
